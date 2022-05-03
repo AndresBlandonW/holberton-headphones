@@ -1,1 +1,1 @@
-# holberton-headphones
+# Project Holberton Headphones
